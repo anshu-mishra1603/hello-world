@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps Learning  V1// "Docker Containerization Implemented - CI/CD pipeline complete"/h1>
+    <h1>DevOps Learning  V2// "Ansible  Playbook Configuration with Jenkins Implemented - CI/CD pipeline complete"/h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
